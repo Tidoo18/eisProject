@@ -1,0 +1,27 @@
+Datos skaitomos nuo 2014-09-30, nes:
+	
+	EU – pateikiami Europos Centrinio Banko (duomenys bazëje nuo 2014-09-30) ir Lietuvos banko (duomenys bazëje nuo 2014-12-30)
+	paskelbti euro ir uþsienio valiutø santykiai pagal jø paskelbimo datà. 
+	Jeigu uþklausos dienà euro ir uþsienio valiutø santykiai neskelbti, rodomi paskutiniai skelbti euro ir uþsienio valiutø santykiai.
+	
+	LT – iki 2014-12-31 (euro ávedimo dienos) pateikiami Lietuvos banko paskelbti lito ir uþsienio valiutø santykiai (duomenys bazëje nuo 1993-06-25).
+	
+	Lietuvos bankas naudoja - 
+	Parametrai
+	tp:	
+	ccy:	
+	dtFrom:	
+	dtTo
+	
+	
+	Saltiniai - 
+	https://www.tutorialspoint.com/java_xml/java_dom_parse_document
+	https://www.codota.com/code/java/methods/java.net.URLConnection/setRequestProperty
+	https://stackoverflow.com/questions/13873308/download-a-xml-file-from-a-link-using-a-java-program
+	https://www.mkyong.com/java/jaxb-hello-world-example/
+	https://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html
+	https://www.java67.com/2014/04/how-to-make-executable-jar-file-in-Java-Eclipse.html
+	
+	
+	
+	

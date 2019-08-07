@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Cp1257" standalone="no"?>
+<jardesc>
+    <jar path="D:/Java/Applications/EisProject/eisCurrencys.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/EisProject/eisProject.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=EisProject/src&lt;eisCurrency{Main.java[Main" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/EisProject/.project"/>
+        <file path="/EisProject/.classpath"/>
+        <javaElement handleIdentifier="=EisProject/src"/>
+        <file path="/EisProject/Analize"/>
+    </selectedElements>
+</jardesc>

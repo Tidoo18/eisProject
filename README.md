@@ -14,10 +14,10 @@ Main - Paleidimui(sukuriamas objektas ir paleidžiama klasė).
 Currency - turi Meniu mechanizma. Taip pat tikrina valiutas ir datas.
 CurrencyDownloadAndRead - nustato url. Atsisiunčia XML Dokumenta ir jį skaito(atspausdinant informacija), taip pat rodo valiutos skirtumus.
 Analize.txt yra nurodyti kaikurie šaltiniai(nenorėjau dėti visų puslapiu iš stackoverflow).
-#Programa paleidimas
+# Programa paleidimas
 Paleidžiama per console(main klasė)
 Paleidžiama per komandine eilute (java jar eisCurrencys.jar)
-#Trūkumai
+# Trūkumai
 Programa tikrina kursą tik iš EUR.(Rytoj pataisysių).
 Programoje trūksta klaidų sugaudimo. (Rytoj pataisysių).
 Programoje trūksta testų. (Rytoj pataisysių).
